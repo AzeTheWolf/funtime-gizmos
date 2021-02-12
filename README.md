@@ -9,5 +9,7 @@ Gizmos are written in JavaScript and meant to be run in [Node.JS](https://nodejs
 ### List of Gizmos
 Below is a list of Gizmos with a short description. Each gizmo also has its dedicated readme inside its directory.
 
+1. [Desktop Trasher](src/desktopTrasher) - A tool that populates desktop with hard-to-remove files.
+
 ## License
 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
