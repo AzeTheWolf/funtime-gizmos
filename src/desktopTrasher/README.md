@@ -9,7 +9,7 @@ Windows has a set of restricted filenames that were once reserved for device fil
 This Gizmo creates every single device file there is, right on your desktop.
 
 ## Usage
-To throw trash around your desktop, simply run the script.
+To throw trash around your desktop, simply run the script with node.
 
 For easy cleanup, add "clean" parameter
 > node desktopTrasher.js clean
