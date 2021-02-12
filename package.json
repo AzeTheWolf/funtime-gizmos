@@ -1,0 +1,19 @@
+{
+  "name": "funtime-gizmos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "lint": "eslint -- ./src/ --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC-BY-SA-4.0"
+}
