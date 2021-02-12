@@ -11,7 +11,7 @@
     "prettier": "^2.2.1"
   },
   "scripts": {
-    "lint": "eslint ./src/ --fix"
+    "lint": "prettier -w ./src && eslint --fix ./src/"
   },
   "keywords": [],
   "author": "",
