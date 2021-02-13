@@ -1,0 +1,13 @@
+{
+  "name": "shortcut-payloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "email": "randomusrid@gmail.com",
+    "name": "Ljómin"
+  },
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "windows-shortcuts": "^0.1.6"
+  }
+}

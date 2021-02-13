@@ -13,7 +13,9 @@
   "scripts": {
     "lint": "prettier -w ./src && eslint --fix ./src/"
   },
-  "keywords": [],
-  "author": "",
+  "author": {
+    "email": "randomusrid@gmail.com",
+    "name": "Ljómin"
+  },
   "license": "CC-BY-SA-4.0"
 }
